@@ -7,3 +7,5 @@ int main()
   int i,j,k;
   int sum=0;
 }
+
+thankyou :)
