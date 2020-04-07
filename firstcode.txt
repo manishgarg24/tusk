@@ -6,6 +6,9 @@ int main()
 {
   int i,j,k;
   int sum=0;
+  
+  
+  int product;
 }
 
 thankyou :)
